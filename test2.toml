@@ -1,0 +1,4 @@
+funct = 'test2'
+num = 80
+bounds = [[-0.5,1.0]]
+num_inducing = 8
